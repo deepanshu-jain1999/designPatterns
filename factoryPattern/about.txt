@@ -1,0 +1,4 @@
+Factory method:
+     A method which returns an object of one of several classes based on an input.
+     These classes denote different types of objects having a common characteristic, such as Knight, Rook, Bishop.
+     All these have a common characteristic that they are chess pieces.
